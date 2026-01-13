@@ -1,5 +1,5 @@
 #  About Me:
-👋 Hi, I’m @julianDalban<br>🔭 I’m currently working on quantitative techniques in financial fields.
+👋 Hi, I’m @julianDalban<br>🔭 I’m currently working on applying quantitative techniques in financial fields.
 
 
 ## 🌐 Socials:
